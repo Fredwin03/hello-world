@@ -2,4 +2,6 @@
 
 This is an example repository for the Git
 
-Working with github.
+Working with Github.
+
+Using Github to make changes in Git.
